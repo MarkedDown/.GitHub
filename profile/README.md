@@ -47,8 +47,8 @@
 [Badge Links]: https://img.shields.io/badge/Links-00B2FF?style=for-the-badge
 [Badge Wiki]: https://img.shields.io/badge/Wiki-8B8B8B?style=for-the-badge
 
-[Licenses]: https://github.com/MarkedDown/Licenses
-[Buttons]: https://github.com/MarkedDown/Buttons
-[Disable]: https://github.com/MarkedDown/Disable
-[Links]: https://github.com/MarkedDown/Links
-[Wiki]: https://github.com/MarkedDown/Wiki
+[Licenses]: https://github.com/MarkedDown/Licenses 'Lots of license badges'
+[Buttons]: https://github.com/MarkedDown/Buttons 'How to make buttons'
+[Disable]: https://github.com/MarkedDown/Disable 'How to disable unused features'
+[Links]: https://github.com/MarkedDown/Links 'How to better use links'
+[Wiki]: https://github.com/MarkedDown/Wiki 'Why not to use GitHub Wiki'
