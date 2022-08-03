@@ -5,10 +5,10 @@
 <br>
 <br>
 
-[![Badge Links]][Links] 
-[![Badge Buttons]][Buttons] 
-[![Badge Licenses]][Licenses] 
-[![Badge Disable]][Disable] 
+[![Badge Links]][Links]   
+[![Badge Buttons]][Buttons]   
+[![Badge Licenses]][Licenses]   
+[![Badge Disable]][Disable]   
 [![Badge Wiki]][Wiki]
 
 <br>
