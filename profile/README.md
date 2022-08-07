@@ -5,10 +5,12 @@
 <br>
 <br>
 
-[![Badge Links]][Links]   
-[![Badge Buttons]][Buttons]   
-[![Badge Licenses]][Licenses]   
-[![Badge Disable]][Disable]   
+[![Badge Buttons]][Buttons]    
+[![Badge Separators]][Separators]    
+[![Badge Links]][Links]
+
+[![Badge Disable]][Disable]    
+[![Badge Licenses]][Licenses]    
 [![Badge Wiki]][Wiki]
 
 <br>
@@ -49,6 +51,7 @@
 
 <!----------------------------------------------------------------------------->
 
+[Separators]: https://github.com/MarkedDown/Separators 'List of markdown separators'
 [Licenses]: https://github.com/MarkedDown/Licenses 'Lots of license badges'
 [Buttons]: https://github.com/MarkedDown/Buttons 'How to make buttons'
 [Disable]: https://github.com/MarkedDown/Disable 'How to disable unused features'
@@ -57,6 +60,7 @@
 
 <!----------------------------------[ Badges ]--------------------------------->
 
+[Badge Separators]: https://img.shields.io/badge/Separators-008C99?style=for-the-badge&logoColor=white&logo=ONLYOFFICE
 [Badge Licenses]: https://img.shields.io/badge/Licenses-EF9421?style=for-the-badge&logoColor=white&logo=Unlicense
 [Badge Buttons]: https://img.shields.io/badge/Buttons-37a779?style=for-the-badge&logoColor=white&logo=Openlayers
 [Badge Disable]: https://img.shields.io/badge/Disable-ad1c51?style=for-the-badge&logoColor=white&logo=RenovateBot
