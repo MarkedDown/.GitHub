@@ -15,7 +15,7 @@
 <br>
 <br>
 
-### Keep It             Make It                Give It               Make It  <br><br>Ｓｈｏｒｔ       Ｓｉｍｐｌｅ       Ｓｐａｃｅ       Ｖｉｓｕａｌ
+###  Keep It              Make It                Give It              Make It   <br><br>Ｓｈｏｒｔ       Ｓｉｍｐｌｅ       Ｓｐａｃｅ       Ｖｉｓｕａｌ
 
 <br>
 <br>
