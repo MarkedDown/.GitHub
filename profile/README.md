@@ -13,6 +13,8 @@
 [![Badge Licenses]][Licenses]    
 [![Badge Wiki]][Wiki]
 
+[![Badge Math]][Math]
+
 <br>
 <br>
 <br>
@@ -57,6 +59,8 @@
 [Disable]: https://github.com/MarkedDown/Disable 'How to disable unused features'
 [Links]: https://github.com/MarkedDown/Links 'How to better use links'
 [Wiki]: https://github.com/MarkedDown/Wiki 'Why not to use GitHub Wiki'
+[Math]: https://github.com/MarkedDown/Math 'How to use MathJax in Markdown'
+
 
 <!----------------------------------[ Badges ]--------------------------------->
 
@@ -66,4 +70,5 @@
 [Badge Disable]: https://img.shields.io/badge/Disable-ad1c51?style=for-the-badge&logoColor=white&logo=RenovateBot
 [Badge Links]: https://img.shields.io/badge/Links-00B2FF?style=for-the-badge&logoColor=white&logo=Fing
 [Badge Wiki]: https://img.shields.io/badge/Wiki-8B8B8B?style=for-the-badge&logoColor=white&logo=Wikipedia
+[Badge Math]: https://img.shields.io/badge/Math-0052CC?style=for-the-badge&logoColor=white&logo=Sharp
 
